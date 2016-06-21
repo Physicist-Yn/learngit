@@ -4,6 +4,7 @@
  * This code is licenced under the GPL.
  */
 #include <linux/proc_fs.h>
+/*#include <linux/proc_fs.h>*/
 #include <linux/smp.h>
 #include <linux/init.h>
 #include <linux/notifier.h>
